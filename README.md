@@ -1,4 +1,4 @@
-# Awesome Movies for Geeks :sunglasses:
+# Awesome List of Movies for Geeks :sunglasses:
 
 ## Contribution guidelines
 To add a movie to the list, you need to have a movie poster and imdb link. Fork and clone this repository add the data as mentioned below and submit a Pull Request.
